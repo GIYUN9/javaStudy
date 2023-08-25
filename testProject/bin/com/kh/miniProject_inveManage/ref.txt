@@ -1,0 +1,23 @@
+Run
+	호출
+
+Product
+	필드값
+	setter / getter
+
+ProductContorller
+	ArrayList<>
+	
+ProductMenu
+	메인화면
+	
+고객 
+	  1. 전체 상품 목록
+	  2. 상품 조회
+	  3. 상품 구매
+	  4. 뒤로 가기	
+관리자
+	  1. 상품 추가
+	  2. 상품 삭제
+	  3. 상품 수정
+	  4. 로그아웃 
