@@ -5,7 +5,7 @@ public class ProductController {
 	ArrayList<Product> products = new ArrayList<>();
 
     public void add(String name, int price, int amount, String description) {
-        Product product = new Product(name, price, amount, description);
+    	Product product = new Product(name, price, amount, description);
         products.add(product);
     }
 
